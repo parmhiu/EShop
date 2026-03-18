@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/ApiGateways/" />
+  <Folder Name="/Services/" />
+  <Folder Name="/Services/Catalog/">
+    <Project Path="Catalog.API/Catalog.API.csproj" />
+  </Folder>
+</Solution>
