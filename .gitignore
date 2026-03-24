@@ -52,3 +52,13 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/Catalog.API/obj/Catalog.API.csproj.nuget.dgspec.json
+/Catalog.API/obj/Catalog.API.csproj.nuget.g.props
+/Catalog.API/obj/Catalog.API.csproj.nuget.g.targets
+/Catalog.API/obj/Debug/net10.0/Catalog.API.AssemblyInfo.cs
+/Catalog.API/obj/Debug/net10.0/Catalog.API.AssemblyInfoInputs.cache
+/Catalog.API/obj/Debug/net10.0/Catalog.API.assets.cache
+/Catalog.API/obj/Debug/net10.0/Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
+/Catalog.API/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Catalog.API/obj/project.assets.json
+/Catalog.API/obj/project.nuget.cache
